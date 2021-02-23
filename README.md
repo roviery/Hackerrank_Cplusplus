@@ -1,2 +1,2 @@
-# Hackerrank_Cplusplus
+# Hackerrank_Cpp
 Repository untuk problem Hackerrank (C++)
